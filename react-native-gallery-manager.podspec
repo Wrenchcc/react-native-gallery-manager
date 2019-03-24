@@ -8,7 +8,7 @@ require 'json'
   s.summary      = package['description']
   s.license      = package['license']
 
-   s.authors      = package['author']
+  s.authors      = package['author']
   s.homepage     = package['homepage']
   s.platform     = :ios, "9.0"
 

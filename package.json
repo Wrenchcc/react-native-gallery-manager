@@ -2,6 +2,7 @@
   "name": "react-native-gallery-manager",
   "version": "1.0.9",
   "description": "List Gallery content from React-Native",
+  "homepage": "https://github.com/pentarex/react-native-gallery-manager.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
